@@ -1,0 +1,29 @@
+{
+  "name": "TickTockSystems",
+  "description": "Tick Tock Systems",
+  "main": "index.js",
+  "authors": [
+    "DJ"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "tick",
+    "tock",
+    "systems"
+  ],
+  "homepage": "https://github.com/mdhanajeyan/ticktocksystems",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "font-awesome": "^4.6.3"
+  }
+}
